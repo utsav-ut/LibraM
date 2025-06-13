@@ -82,19 +82,24 @@ library/
 ## 🎯 Sample Screens
 
 ```text
-Welcome to Library Management System
+--- Welcome to the Library System ---
 1. Login
-2. Register
-Choose option: 1
+2. Create New User
+3. Exit
+Choose option:
 
 Enter username: admin
 Enter password: *****
 
-Welcome, admin!
+--- Library Management System ---
 1. Add Book
 2. Add User
-3. View Books
-4. Logout
+3. List Books
+4. Borrow Book
+5. Return Book
+6. Logout
+7. Exit
+Choose option: 
 ```
 
 ---
