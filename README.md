@@ -1,5 +1,4 @@
-```markdown
-# 📚 Library Management System (Java – CLI)
+# LibraM📚 (Java – CLI)
 
 A simple **command-line based Library Management System** written in **Java**, designed for educational purposes.  
 It supports basic functionality for user management, book inventory, and borrowing/returning books.
@@ -144,4 +143,4 @@ If you have suggestions, feature requests, or feedback, feel free to open an iss
 ## ⭐ Star this Project
 
 If you found this helpful or used it in your learning journey, consider giving it a ⭐ on GitHub to show your support!
-```
+
